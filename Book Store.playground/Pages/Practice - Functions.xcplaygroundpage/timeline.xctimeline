@@ -2,5 +2,20 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/art/swift_hw1/Book%20Store.playground/Pages/Practice%20-%20Functions.xcplaygroundpage#CharacterRangeLen=50&amp;CharacterRangeLoc=2839&amp;EndingLineNumber=89&amp;StartingLineNumber=89&amp;Timestamp=512404700.324633"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=9&amp;CharacterRangeLoc=2108&amp;EndingColumnNumber=21&amp;EndingLineNumber=58&amp;StartingColumnNumber=12&amp;StartingLineNumber=58&amp;Timestamp=512404632.59024"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=9&amp;CharacterRangeLoc=2840&amp;EndingColumnNumber=10&amp;EndingLineNumber=89&amp;StartingColumnNumber=1&amp;StartingLineNumber=89&amp;Timestamp=512404700.344905"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
